@@ -2,7 +2,7 @@
 *{
 	padding = 0px;
 	margin = 0px;
-	background-color: gray;
+	background-color: rgb(204, 204, 204);
 	box-sizing: border-box;
 	
 }
@@ -53,6 +53,8 @@ p{
 .player_two{
 	background-color: white;
 	display: flex;
+	background-color: rgb(255, 255, 255); 
+	padding; border-radius
 }
 
 
