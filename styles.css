@@ -1,1 +1,61 @@
 /*  your css code here. If applicable */
+*{
+	padding = 0px;
+	margin = 0px;
+	background-color: gray;
+	box-sizing: border-box;
+	
+}
+h1{
+	text-align: center;
+}
+.playlist>ul{
+	list-style-type: none
+	
+	
+}
+.playlist{
+	
+	border: 2px solid black;
+	background-color: white;
+	border-radius: 6px;
+	margin: 10px 5px ;
+	
+}
+
+a{
+	
+	color: black;
+	text-decoration-line: none
+}
+h2>mp3{
+	text-align: center;
+	background-color: white;
+}
+h2{
+	text-align: center;
+	
+}
+p{
+	background-color: white;
+}
+
+.container{
+	
+	border: 3px solid black;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 12px;
+	background-color: white;
+	
+}
+.player_two{
+	background-color: white;
+	display: flex;
+}
+
+
+
+
+
